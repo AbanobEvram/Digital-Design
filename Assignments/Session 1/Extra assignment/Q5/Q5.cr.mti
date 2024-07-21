@@ -1,0 +1,11 @@
+{D:/Digital course/assignment/Session 1/Extra assignment/Q5/Alu.v} {1 {vlog -work work -vopt -stats=none {D:/Digital course/assignment/Session 1/Extra assignment/Q5/Alu.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Mux2
+-- Compiling module Mux3
+-- Compiling module Adder2
+-- Compiling module Alu
+
+Top level modules:
+	Alu
+
+} {} {}}

@@ -1,0 +1,68 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Digital course/projects/study1
+T_opt
+!s110 1719705592
+VJ<inYfe9m7G;@454dagI72
+04 2 4 work Q1 fast 0
+=1-88a4c2d4e824-66809ff8-37-4b60
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vMux2
+Z1 !s110 1719705575
+!i10b 1
+!s100 iOhfZh;RC1LA`4AHinaXL3
+IRS5D?i?53;<c;dM><mlJ?1
+Z2 dD:/Digital course/assignment/1
+Z3 w1719705556
+Z4 8D:/Digital course/assignment/1/Q1.v
+Z5 FD:/Digital course/assignment/1/Q1.v
+!i122 0
+L0 1 5
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z8 !s108 1719705575.000000
+Z9 !s107 D:/Digital course/assignment/1/Q1.v|
+Z10 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital course/assignment/1/Q1.v|
+!i113 0
+Z11 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+n@mux2
+vQ1
+R1
+!i10b 1
+!s100 JFgQUQEn:l8[ccRZJde<e0
+Ii8kIBzc[a55C8?Ce[OeoT0
+R2
+R3
+R4
+R5
+!i122 0
+L0 7 9
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R0
+n@q1

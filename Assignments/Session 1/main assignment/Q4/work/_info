@@ -1,0 +1,45 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Digital course/assignment/5
+T_opt
+!s110 1719753001
+VLc738clNnjMB]6CDlZ_cU2
+04 10 4 work evenparity fast 0
+=1-88a4c2d4e824-66815929-a8-2e38
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vevenparity
+!s110 1719752958
+!i10b 1
+!s100 W93kXS93`M@6OfhlJLK7L3
+I>S::haGLGkf_EB>bZHn9L0
+dD:/Digital course/assignment/4
+w1719752953
+8D:/Digital course/assignment/4/even_parity.v
+FD:/Digital course/assignment/4/even_parity.v
+!i122 3
+L0 1 7
+VDg1SIo80bB@j0V0VzS_@n1
+OL;L;2021.1;73
+r1
+!s85 0
+31
+!s108 1719752958.000000
+!s107 D:/Digital course/assignment/4/even_parity.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital course/assignment/4/even_parity.v|
+!i113 0
+o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1

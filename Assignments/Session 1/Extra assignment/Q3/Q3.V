@@ -1,0 +1,8 @@
+module Q3(A,B,C,F);
+input A,B,C;
+output F;
+wire z0,z1;
+assign z0 = (A^B) ;
+assign z1 = ~(B^C);
+assign F=z0&z1&C;
+endmodule

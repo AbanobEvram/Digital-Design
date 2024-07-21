@@ -1,0 +1,21 @@
+module comparator2(A,B,greter,equal,less);
+input [3:0] A,B;
+output reg greter,equal,less;
+always @(*) begin
+	if (A>B) begin
+    greter=1;
+	equal=0;
+	less=0;	
+	end
+	else if (A==B) begin
+	greter=0;
+	equal=1;
+	less=0;	
+	end
+    else if(A<B)begin
+    greter=0;
+    equal=0;
+    less=1;
+    end
+end
+endmodule

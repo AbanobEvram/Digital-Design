@@ -1,0 +1,45 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Digital course/assignment/2
+T_opt
+!s110 1719709306
+V7^i1ALZghJfiVnoIYNVke2
+04 8 4 work Decoder2 fast 0
+=1-88a4c2d4e824-6680ae7a-1e4-2eb0
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work
+Z0 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vDecoder2
+!s110 1719709272
+!i10b 1
+!s100 ZbjUAOO8B3NmgoM]EYK5e2
+ICURQ>5eLR=kJWD_`4d_D21
+dD:/Digital course/assignment/3
+w1719709267
+8D:/Digital course/assignment/3/Decoder.v
+FD:/Digital course/assignment/3/Decoder.v
+!i122 0
+L0 1 14
+VDg1SIo80bB@j0V0VzS_@n1
+OL;L;2021.1;73
+r1
+!s85 0
+31
+!s108 1719709272.000000
+!s107 D:/Digital course/assignment/3/Decoder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital course/assignment/3/Decoder.v|
+!i113 0
+o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+n@decoder2

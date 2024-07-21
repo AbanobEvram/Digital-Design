@@ -1,0 +1,44 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Digital course/assignment/1
+T_opt
+!s110 1719707635
+Vc5zi_IioE@[n0RcjDhlaD0
+04 6 4 work adder4 fast 0
+=1-88a4c2d4e824-6680a7f3-279-47dc
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work
+Z0 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vadder4
+!s110 1719707621
+!i10b 1
+!s100 KJGloQb1JEi>fQ>WPQ5U]3
+IdVI_Oo<4Tj_:^lJ]miO2[0
+dD:/Digital course/assignment/2
+w1719707602
+8D:/Digital course/assignment/2/Adder4_bit.v
+FD:/Digital course/assignment/2/Adder4_bit.v
+!i122 0
+L0 1 5
+VDg1SIo80bB@j0V0VzS_@n1
+OL;L;2021.1;73
+r1
+!s85 0
+31
+!s108 1719707621.000000
+!s107 D:/Digital course/assignment/2/Adder4_bit.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital course/assignment/2/Adder4_bit.v|
+!i113 0
+o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
