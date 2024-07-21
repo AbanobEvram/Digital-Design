@@ -1,0 +1,80 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/Users/Abanob Evram/Desktop/Study
+T_opt
+!s110 1720775015
+V[bOKFIWVoZg`5^`CMVXY`1
+Z2 04 13 4 work dff_en_pre_tb fast 0
+=1-88a4c2d4e824-6690f166-388-4444
+Z3 !s124 OEM100
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 tCvgOpt 0
+n@_opt
+Z6 OL;O;2021.1;73
+R1
+T_opt1
+!s110 1720908265
+V5OE3c_?fH;D5@n9znjTN41
+R2
+=1-88a4c2d4e824-6692f9e8-289-41b0
+R3
+R4
+R5
+n@_opt1
+R6
+vdff_en_pre
+Z7 !s110 1720775010
+!i10b 1
+!s100 mYaR]2S4^2bFVig_^difX3
+IoRh`5G=EUH^gfM5=gMZZg1
+Z8 dD:/Digital course/Session3
+w1720765783
+8dff_en_pre.v
+Fdff_en_pre.v
+!i122 2
+L0 1 11
+Z9 VDg1SIo80bB@j0V0VzS_@n1
+Z10 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z11 !s108 1720775010.000000
+Z12 !s107 dff_en_pre_tb.v|dff_en_pre.v|
+Z13 !s90 -reportprogress|300|dff_en_pre.v|dff_en_pre_tb.v|
+!i113 0
+Z14 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R5
+vdff_en_pre_tb
+R7
+!i10b 1
+!s100 PJAfZbi=4UC73TTJk_K_90
+I9jkiI[?QNgH2P6@k0A;R]2
+R8
+w1720774989
+8dff_en_pre_tb.v
+Fdff_en_pre_tb.v
+!i122 2
+L0 1 33
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R5
