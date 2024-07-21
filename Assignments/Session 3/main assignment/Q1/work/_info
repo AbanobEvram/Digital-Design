@@ -1,0 +1,94 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dD:/questasim64_2021.1/examples
+T_opt
+!s110 1721057259
+V<N:>c@EMKhZ^@WJEMcUfi2
+04 13 4 work Data_Latch_tb fast 0
+=1-88a4c2d4e824-66953fea-30b-1c50
+Z2 !s124 OEM100
+Z3 o-quiet -auto_acc_if_foreign -work work +acc
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;2021.1;73
+R1
+T_opt1
+!s110 1721057241
+V`a;h@2h^iLGiZMQB016KI1
+04 10 4 work Data_Latch fast 0
+=1-88a4c2d4e824-66953fd8-2b0-28c4
+R2
+R3
+R4
+n@_opt1
+R5
+R1
+vData_Latch
+Z6 !s110 1721254209
+!i10b 1
+!s100 nPIRN;C5gMXPFid3dB4V50
+Io]gPf?cgQlX=iWR4C]L_c0
+Z7 dD:/Digital course/assignment/Session 3/main assignment/Q1
+w1721055187
+8D:/Digital course/assignment/Session 3/main assignment/Q1/Data_Latch.v
+FD:/Digital course/assignment/Session 3/main assignment/Q1/Data_Latch.v
+!i122 29
+L0 1 10
+Z8 VDg1SIo80bB@j0V0VzS_@n1
+Z9 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z10 !s108 1721254209.000000
+!s107 D:/Digital course/assignment/Session 3/main assignment/Q1/Data_Latch.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital course/assignment/Session 3/main assignment/Q1/Data_Latch.v|
+!i113 0
+Z11 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+n@data_@latch
+vData_Latch_tb
+R6
+!i10b 1
+!s100 z_F^R2CT_6knbW7RV:dMk1
+IdQe3RDUi5znfoYKR:eUf<3
+R7
+w1721254204
+8D:/Digital course/assignment/Session 3/main assignment/Q1/Data_Latch_tb.v
+FD:/Digital course/assignment/Session 3/main assignment/Q1/Data_Latch_tb.v
+!i122 30
+L0 1 32
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 D:/Digital course/assignment/Session 3/main assignment/Q1/Data_Latch_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital course/assignment/Session 3/main assignment/Q1/Data_Latch_tb.v|
+!i113 0
+R11
+R4
+n@data_@latch_tb

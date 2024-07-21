@@ -1,0 +1,57 @@
+{D:/Digital course/assignment/Session 3/main assignment/Q2/FlipFlop.v} {1 {vlog -work work -vopt -stats=none {D:/Digital course/assignment/Session 3/main assignment/Q2/FlipFlop.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Flipflop
+
+Top level modules:
+	Flipflop
+
+} {} {}} {D:/Digital course/assignment/Session 3/main assignment/Q2/D_Flipflop_tb.v} {1 {vlog -work work -vopt -stats=none {D:/Digital course/assignment/Session 3/main assignment/Q2/D_Flipflop_tb.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module D_Flipflop_tb
+
+Top level modules:
+	D_Flipflop_tb
+
+} {} {}} {D:/Digital course/assignment/Session 3/main assignment/Q2/T_Flipflop_tb.v} {1 {vlog -work work -vopt -stats=none {D:/Digital course/assignment/Session 3/main assignment/Q2/T_Flipflop_tb.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module T_Flipflop_tb
+
+Top level modules:
+	T_Flipflop_tb
+
+} {} {}} {D:/Digital course/assignment/Session 3/main assignment/Q2/FlipFlop_tb.v} {1 {vlog -work work -vopt -stats=none {D:/Digital course/assignment/Session 3/main assignment/Q2/FlipFlop_tb.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Flipflop_tb
+
+Top level modules:
+	Flipflop_tb
+
+} {} {}} {D:/Digital course/assignment/Session 3/main assignment/Q2/D_for_DFF.v} {1 {vlog -work work -vopt -stats=none {D:/Digital course/assignment/Session 3/main assignment/Q2/D_for_DFF.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Qd_for_DFF
+
+Top level modules:
+	Qd_for_DFF
+
+} {} {}} {D:/Digital course/assignment/Session 3/main assignment/Q2/D_for_TFF.v} {1 {vlog -work work -vopt -stats=none {D:/Digital course/assignment/Session 3/main assignment/Q2/D_for_TFF.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Qd_for_TFF
+
+Top level modules:
+	Qd_for_TFF
+
+} {} {}} {D:/Digital course/assignment/Session 3/main assignment/Q2/D_Flipflop.v} {1 {vlog -work work -vopt -stats=none {D:/Digital course/assignment/Session 3/main assignment/Q2/D_Flipflop.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module D_Flipflop
+
+Top level modules:
+	D_Flipflop
+
+} {} {}} {D:/Digital course/assignment/Session 3/main assignment/Q2/T_Flipflop.v} {1 {vlog -work work -vopt -stats=none {D:/Digital course/assignment/Session 3/main assignment/Q2/T_Flipflop.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module T_Flipflop
+
+Top level modules:
+	T_Flipflop
+
+} {} {}}

@@ -1,0 +1,132 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dD:/Digital course/assignment/Session 3/Extra assignment/Q1
+T_opt
+!s110 1721141362
+Ven^[M6hF_d_^ek<Ta3STz1
+04 7 4 work Counter fast 0
+=1-88a4c2d4e824-66968871-360-6334
+Z2 !s124 OEM100
+Z3 o-quiet -auto_acc_if_foreign -work work +acc
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;2021.1;73
+R1
+T_opt1
+!s110 1721265460
+Vj0[>42LPX064IBA43nI580
+04 17 4 work Counter_golden_tb fast 0
+=1-88a4c2d4e824-66986d34-290-1d0
+R2
+R3
+R4
+n@_opt1
+R5
+R1
+vCounter
+Z6 !s110 1721265531
+!i10b 1
+!s100 YBM<DhRFCDJ^bV^eHlBW90
+I<oWD4mTP;6MCcB9Wjc;W]2
+Z7 dD:/Digital course/assignment/Session 3/Extra assignment/Q3
+w1721265167
+8Counte.v
+FCounte.v
+!i122 25
+Z8 L0 1 10
+Z9 VDg1SIo80bB@j0V0VzS_@n1
+Z10 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z11 !s108 1721265531.000000
+!s107 Counte_tb.v|Counte.v|Ripple_counter.v|D_Flipflop.v|
+Z12 !s90 -reportprogress|300|D_Flipflop.v|Ripple_counter.v|Counte.v|Counte_tb.v|
+!i113 0
+Z13 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+n@counter
+vCounter_golden_tb
+R6
+!i10b 1
+!s100 H>Q08>ImWH5VcA?SE7f<^2
+IUbim9Rb[nEgehzZazlICk2
+R7
+w1721265368
+8Counte_tb.v
+FCounte_tb.v
+!i122 25
+L0 1 29
+R9
+R10
+r1
+!s85 0
+31
+R11
+Z14 !s107 Counte_tb.v|Counte.v|Ripple_counter.v|D_Flipflop.v|
+R12
+!i113 0
+R13
+R4
+n@counter_golden_tb
+vD_Flipflop
+R6
+!i10b 1
+!s100 `07LnjDA68H4^nz_``:>>2
+I3MQUz]JQV^OlG4<Q^JhQK3
+R7
+w1721067502
+8D_Flipflop.v
+FD_Flipflop.v
+!i122 25
+L0 1 12
+R9
+R10
+r1
+!s85 0
+31
+R11
+R14
+R12
+!i113 0
+R13
+R4
+n@d_@flipflop
+vRipple_counter
+R6
+!i10b 1
+!s100 4NOE9YGAX<4Uo7Z`Qa@A]2
+IMhzP`gDf2WgNgdBFO^8_Z3
+R7
+w1721077916
+8Ripple_counter.v
+FRipple_counter.v
+!i122 25
+R8
+R9
+R10
+r1
+!s85 0
+31
+R11
+R14
+R12
+!i113 0
+R13
+R4
+n@ripple_counter

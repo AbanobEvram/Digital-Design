@@ -1,0 +1,256 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dD:/Digital course/assignment/Session 3/main assignment/Q1
+T_opt
+!s110 1721335145
+Vc@TCZaRb1EZ=9>JmNQCE;1
+04 10 4 work Qd_for_TFF fast 0
+=1-88a4c2d4e824-66997d69-182-21a0
+Z2 !s124 OEM100
+Z3 o-quiet -auto_acc_if_foreign -work work +acc
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;2021.1;73
+T_opt1
+!s110 1721335101
+Vjl2kbNEHA>UO>8e>SbjiH1
+04 10 4 work Qd_for_DFF fast 0
+=1-88a4c2d4e824-66997d3d-7b-bb4
+R2
+R3
+R4
+n@_opt1
+R5
+R1
+T_opt2
+!s110 1721257009
+V=k^n9L_lLTVo;Zf@7RO7f1
+04 11 4 work Flipflop_tb fast 0
+=1-88a4c2d4e824-66984c31-19c-23e4
+R2
+R3
+R4
+n@_opt2
+R5
+R1
+vD_Flipflop
+Z6 !s110 1721335091
+!i10b 1
+!s100 `07LnjDA68H4^nz_``:>>2
+IT8NE>JclP=7S@L]l=XKMn0
+Z7 dD:/Digital course/assignment/Session 3/main assignment/Q2
+w1721255414
+8D:/Digital course/assignment/Session 3/main assignment/Q2/D_Flipflop.v
+FD:/Digital course/assignment/Session 3/main assignment/Q2/D_Flipflop.v
+!i122 62
+Z8 L0 1 12
+Z9 VDg1SIo80bB@j0V0VzS_@n1
+Z10 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z11 !s108 1721335091.000000
+!s107 D:/Digital course/assignment/Session 3/main assignment/Q2/D_Flipflop.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital course/assignment/Session 3/main assignment/Q2/D_Flipflop.v|
+!i113 0
+Z12 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+n@d_@flipflop
+vD_Flipflop_tb
+!s110 1721255423
+!i10b 1
+!s100 [V2l:ToDC<4z:UZ[ll`F52
+I@e>SMM:RT1VLEkUZm]Z`D1
+R7
+w1721255411
+8D:/Digital course/assignment/Session 3/main assignment/Q2/D_Flipflop_tb.v
+FD:/Digital course/assignment/Session 3/main assignment/Q2/D_Flipflop_tb.v
+!i122 51
+L0 1 22
+R9
+R10
+r1
+!s85 0
+31
+!s108 1721255423.000000
+!s107 D:/Digital course/assignment/Session 3/main assignment/Q2/D_Flipflop_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital course/assignment/Session 3/main assignment/Q2/D_Flipflop_tb.v|
+!i113 0
+R12
+R4
+n@d_@flipflop_tb
+vFlipflop
+R6
+!i10b 1
+!s100 S]91GhWNV5Cl8JojU>3>50
+IldBjFZm<CZNgYMXU0[B;;2
+R7
+w1721256967
+8D:/Digital course/assignment/Session 3/main assignment/Q2/FlipFlop.v
+FD:/Digital course/assignment/Session 3/main assignment/Q2/FlipFlop.v
+!i122 65
+L0 1 15
+R9
+R10
+r1
+!s85 0
+31
+R11
+!s107 D:/Digital course/assignment/Session 3/main assignment/Q2/FlipFlop.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital course/assignment/Session 3/main assignment/Q2/FlipFlop.v|
+!i113 0
+R12
+R4
+n@flipflop
+vFlipflop_tb
+!s110 1721256990
+!i10b 1
+!s100 hHa2aMf^[zBz@kk=>oVk82
+IC>7RHbYQhbZRV<>a;jB9k0
+R7
+w1721256721
+8D:/Digital course/assignment/Session 3/main assignment/Q2/FlipFlop_tb.v
+FD:/Digital course/assignment/Session 3/main assignment/Q2/FlipFlop_tb.v
+!i122 59
+L0 1 23
+R9
+R10
+r1
+!s85 0
+31
+!s108 1721256990.000000
+!s107 D:/Digital course/assignment/Session 3/main assignment/Q2/FlipFlop_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital course/assignment/Session 3/main assignment/Q2/FlipFlop_tb.v|
+!i113 0
+R12
+R4
+n@flipflop_tb
+vQd_for_DFF
+R6
+!i10b 1
+!s100 NR4?bfE>KPm8JP9e1TNE32
+Ih3;c`_4WI6W5Ldg@bo9YA1
+R7
+w1721291768
+8D:/Digital course/assignment/Session 3/main assignment/Q2/D_for_DFF.v
+FD:/Digital course/assignment/Session 3/main assignment/Q2/D_for_DFF.v
+!i122 63
+Z13 L0 1 26
+R9
+R10
+r1
+!s85 0
+31
+R11
+!s107 D:/Digital course/assignment/Session 3/main assignment/Q2/D_for_DFF.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital course/assignment/Session 3/main assignment/Q2/D_for_DFF.v|
+!i113 0
+R12
+R4
+n@qd_for_@d@f@f
+vQd_for_TFF
+R6
+!i10b 1
+!s100 aBk3T9^<zEmn@Yi2^g^gJ3
+I`Y85k=^V2E>?bKCbccCiO2
+R7
+w1721291766
+8D:/Digital course/assignment/Session 3/main assignment/Q2/D_for_TFF.v
+FD:/Digital course/assignment/Session 3/main assignment/Q2/D_for_TFF.v
+!i122 64
+R13
+R9
+R10
+r1
+!s85 0
+31
+R11
+!s107 D:/Digital course/assignment/Session 3/main assignment/Q2/D_for_TFF.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital course/assignment/Session 3/main assignment/Q2/D_for_TFF.v|
+!i113 0
+R12
+R4
+n@qd_for_@t@f@f
+vT_Flipflop
+!s110 1721254881
+!i10b 1
+!s100 PO];b^BET2`FWk_Jck`0[3
+I@2WV>IbQbniTHT_KW4QN52
+R7
+w1721254477
+8D:/Digital course/assignment/Session 3/main assignment/Q2/T_Flipflop.v
+FD:/Digital course/assignment/Session 3/main assignment/Q2/T_Flipflop.v
+!i122 48
+R8
+R9
+R10
+r1
+!s85 0
+31
+Z14 !s108 1721254881.000000
+!s107 D:/Digital course/assignment/Session 3/main assignment/Q2/T_Flipflop.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital course/assignment/Session 3/main assignment/Q2/T_Flipflop.v|
+!i113 0
+R12
+R4
+n@t_@flipflop
+vT_Flipflop_tb
+!s110 1721254882
+!i10b 1
+!s100 U][;fEjOZDQeXWIglCg:70
+I64CXQ[m>9gW2mTKkA4`f00
+R7
+w1721254837
+8D:/Digital course/assignment/Session 3/main assignment/Q2/T_Flipflop_tb.v
+FD:/Digital course/assignment/Session 3/main assignment/Q2/T_Flipflop_tb.v
+!i122 49
+L0 1 28
+R9
+R10
+r1
+!s85 0
+31
+R14
+!s107 D:/Digital course/assignment/Session 3/main assignment/Q2/T_Flipflop_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital course/assignment/Session 3/main assignment/Q2/T_Flipflop_tb.v|
+!i113 0
+R12
+R4
+n@t_@flipflop_tb
