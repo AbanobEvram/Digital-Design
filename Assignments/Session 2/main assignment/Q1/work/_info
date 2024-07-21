@@ -1,0 +1,107 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/Users/Abanob Evram/Desktop/Study
+T_opt
+!s110 1720310433
+VRGbD:2fPcTz6^JBEgkE610
+04 16 4 work Q1_tb_randomized fast 0
+=1-88a4c2d4e824-6689daa1-17f-3c40
+Z2 !s124 OEM100
+Z3 o-quiet -auto_acc_if_foreign -work work +acc
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;2021.1;73
+R1
+T_opt1
+!s110 1720308904
+VR@WDeWYh@L4?TWolHJ>D:2
+04 2 4 work Q1 fast 0
+=1-88a4c2d4e824-6689d4a8-1c1-1fc8
+R2
+R3
+R4
+n@_opt1
+R5
+R1
+vpriority_encoder_4bit
+!s110 1720311891
+!i10b 1
+!s100 7Q`l9:aRmkIF<nz`aHch83
+I:Wc2?ICb]C6XGB];GhJ1z2
+Z6 dD:/Digital course/assignment/Session 2/main assignment/Q1
+w1720311887
+8D:/Digital course/assignment/Session 2/main assignment/Q1/Test.v
+FD:/Digital course/assignment/Session 2/main assignment/Q1/Test.v
+!i122 7
+L0 2 17
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+Z8 OL;L;2021.1;73
+r1
+!s85 0
+31
+!s108 1720311891.000000
+!s107 D:/Digital course/assignment/Session 2/main assignment/Q1/Test.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital course/assignment/Session 2/main assignment/Q1/Test.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+vQ1
+!s110 1720308672
+!i10b 1
+!s100 iYD1nfho=QSCCE]=?LB;I0
+Ik:Q^SeTaKA[SnGBi:7=?L2
+R6
+w1720307910
+8D:/Digital course/assignment/Session 2/main assignment/Q1/Q1.v
+FD:/Digital course/assignment/Session 2/main assignment/Q1/Q1.v
+!i122 1
+L0 1 11
+R7
+R8
+r1
+!s85 0
+31
+!s108 1720308672.000000
+!s107 D:/Digital course/assignment/Session 2/main assignment/Q1/Q1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital course/assignment/Session 2/main assignment/Q1/Q1.v|
+!i113 0
+R9
+R4
+n@q1
+vQ1_tb_randomized
+!s110 1720310421
+!i10b 1
+!s100 z58bAQiC30U@H5dCmI>XN2
+I9_Nhd@7k6k846@52[]c6m1
+R6
+w1720310411
+8D:/Digital course/assignment/Session 2/main assignment/Q1/Q1_tb.v
+FD:/Digital course/assignment/Session 2/main assignment/Q1/Q1_tb.v
+!i122 6
+L0 1 28
+R7
+R8
+r1
+!s85 0
+31
+!s108 1720310421.000000
+!s107 D:/Digital course/assignment/Session 2/main assignment/Q1/Q1_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital course/assignment/Session 2/main assignment/Q1/Q1_tb.v|
+!i113 0
+R9
+R4
+n@q1_tb_randomized

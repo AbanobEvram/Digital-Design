@@ -1,0 +1,69 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Abanob Evram/Desktop/Study
+T_opt
+!s110 1720472753
+VG2TijQNbC;`QRk=hfAeGf1
+04 8 4 work Demux_tb fast 0
+=1-88a4c2d4e824-668c54b1-1b1-47c0
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vDemux
+Z2 !s110 1720472742
+!i10b 1
+!s100 0lcI2mLXGA2[^3:IN[=Ih3
+I[>iTz2Pim`H;GOKMODoJm3
+Z3 dD:/Digital course/assignment/Session 2/Extra assignment/Q2
+w1720471953
+8D:/Digital course/assignment/Session 2/Extra assignment/Q2/Demux.v
+FD:/Digital course/assignment/Session 2/Extra assignment/Q2/Demux.v
+!i122 3
+L0 1 13
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.1;73
+r1
+!s85 0
+31
+!s108 1720472741.000000
+!s107 D:/Digital course/assignment/Session 2/Extra assignment/Q2/Demux.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital course/assignment/Session 2/Extra assignment/Q2/Demux.v|
+!i113 0
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@demux
+vDemux_tb
+R2
+!i10b 1
+!s100 08FmI09AiEHFD5;P47NJj1
+I8BlP]14;KC1@30bNSZC4<2
+R3
+w1720472733
+8D:/Digital course/assignment/Session 2/Extra assignment/Q2/Demux_tb.v
+FD:/Digital course/assignment/Session 2/Extra assignment/Q2/Demux_tb.v
+!i122 4
+L0 1 31
+R4
+R5
+r1
+!s85 0
+31
+!s108 1720472742.000000
+!s107 D:/Digital course/assignment/Session 2/Extra assignment/Q2/Demux_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital course/assignment/Session 2/Extra assignment/Q2/Demux_tb.v|
+!i113 0
+R6
+R1
+n@demux_tb

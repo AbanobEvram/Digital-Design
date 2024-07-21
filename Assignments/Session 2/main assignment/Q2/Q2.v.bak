@@ -1,0 +1,14 @@
+module Priority_encoder(X,Y);
+input [3:0] X;
+output reg [1:0] Y ;
+always @(*) begin
+	if (X[3]==1) 
+	Y=3;
+	else if (X[2]==1)
+	Y=2;
+	else if (X[1]==1)
+	Y=1;
+	else if (X[0]==1)
+	Y=0;	
+end
+endmodule

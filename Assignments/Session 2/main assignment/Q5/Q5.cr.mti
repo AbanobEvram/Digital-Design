@@ -1,0 +1,22 @@
+{D:/Digital course/assignment/Session 2/main assignment/Q5/N_bit_Alu_tb.v} {1 {vlog -work work -vopt -stats=none {D:/Digital course/assignment/Session 2/main assignment/Q5/N_bit_Alu_tb.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module N_bit_Alu_tb
+
+Top level modules:
+	N_bit_Alu_tb
+
+} {} {}} {D:/Digital course/assignment/Session 2/main assignment/Q5/N_bit_Adder.v} {1 {vlog -work work -vopt -stats=none {D:/Digital course/assignment/Session 2/main assignment/Q5/N_bit_Adder.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module N_bit_Adder
+
+Top level modules:
+	N_bit_Adder
+
+} {} {}} {D:/Digital course/assignment/Session 2/main assignment/Q5/N_bit_Alu.v} {1 {vlog -work work -vopt -stats=none {D:/Digital course/assignment/Session 2/main assignment/Q5/N_bit_Alu.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module N_bit_Alu
+
+Top level modules:
+	N_bit_Alu
+
+} {} {}}

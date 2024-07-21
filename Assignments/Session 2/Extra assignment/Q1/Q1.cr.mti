@@ -1,0 +1,43 @@
+{D:/Digital course/assignment/Session 2/Extra assignment/Q1/One_hot_encoder.v} {1 {vlog -work work -vopt -stats=none {D:/Digital course/assignment/Session 2/Extra assignment/Q1/One_hot_encoder.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module One_hot_encoder
+
+Top level modules:
+	One_hot_encoder
+
+} {} {}} {D:/Digital course/assignment/Session 2/Extra assignment/Q1/encoder_gray_tb.v} {1 {vlog -work work -vopt -stats=none {D:/Digital course/assignment/Session 2/Extra assignment/Q1/encoder_gray_tb.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module encoder_gray_tb
+
+Top level modules:
+	encoder_gray_tb
+
+} {} {}} {D:/Digital course/assignment/Session 2/Extra assignment/Q1/encoder.v} {1 {vlog -work work -vopt -stats=none {D:/Digital course/assignment/Session 2/Extra assignment/Q1/encoder.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module encoder
+
+Top level modules:
+	encoder
+
+} {} {}} {D:/Digital course/assignment/Session 2/Extra assignment/Q1/encoder_one_hot_tb.v} {1 {vlog -work work -vopt -stats=none {D:/Digital course/assignment/Session 2/Extra assignment/Q1/encoder_one_hot_tb.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module encoder_one_hot_tb
+
+Top level modules:
+	encoder_one_hot_tb
+
+} {} {}} {D:/Digital course/assignment/Session 2/Extra assignment/Q1/encoder_tb.v} {1 {vlog -work work -vopt -stats=none {D:/Digital course/assignment/Session 2/Extra assignment/Q1/encoder_tb.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module encoder_tb
+
+Top level modules:
+	encoder_tb
+
+} {} {}} {D:/Digital course/assignment/Session 2/Extra assignment/Q1/Gray_encoder.v} {1 {vlog -work work -vopt -stats=none {D:/Digital course/assignment/Session 2/Extra assignment/Q1/Gray_encoder.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Gray_encoder
+
+Top level modules:
+	Gray_encoder
+
+} {} {}}
