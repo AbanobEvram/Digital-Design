@@ -1,16 +1,16 @@
-{D:/Digital course/assignment/Session 3/main assignment/Q5/SLE_tb_1.v} {1 {vlog -work work -vopt -stats=none {D:/Digital course/assignment/Session 3/main assignment/Q5/SLE_tb_1.v}
-QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
--- Compiling module SLE_tb_1
-
-Top level modules:
-	SLE_tb_1
-
-} {} {}} {D:/Digital course/assignment/Session 3/main assignment/Q5/SLE_tb.v} {1 {vlog -work work -vopt -stats=none {D:/Digital course/assignment/Session 3/main assignment/Q5/SLE_tb.v}
+{D:/Digital course/assignment/Session 3/main assignment/Q5/SLE_tb.v} {1 {vlog -work work -vopt -stats=none {D:/Digital course/assignment/Session 3/main assignment/Q5/SLE_tb.v}
 QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
 -- Compiling module SLE_tb
 
 Top level modules:
 	SLE_tb
+
+} {} {}} {D:/Digital course/assignment/Session 3/main assignment/Q5/SLE_tb_1.v} {1 {vlog -work work -vopt -stats=none {D:/Digital course/assignment/Session 3/main assignment/Q5/SLE_tb_1.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module SLE_tb_1
+
+Top level modules:
+	SLE_tb_1
 
 } {} {}} {D:/Digital course/assignment/Session 3/main assignment/Q5/SLE_tb_2.v} {1 {vlog -work work -vopt -stats=none {D:/Digital course/assignment/Session 3/main assignment/Q5/SLE_tb_2.v}
 QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
