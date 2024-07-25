@@ -1,0 +1,15 @@
+{D:/Digital course/assignment/Session 4/Extra assignment/Q6/gray_counter.v} {1 {vlog -work work -vopt -stats=none {D:/Digital course/assignment/Session 4/Extra assignment/Q6/gray_counter.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module gray_counter
+
+Top level modules:
+	gray_counter
+
+} {} {}} {D:/Digital course/assignment/Session 4/Extra assignment/Q6/gray_counter_tb.v} {1 {vlog -work work -vopt -stats=none {D:/Digital course/assignment/Session 4/Extra assignment/Q6/gray_counter_tb.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module gray_counter_tb
+
+Top level modules:
+	gray_counter_tb
+
+} {} {}}

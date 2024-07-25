@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a200tffg1156-3" LaunchTime="1721901575">
+  <File Type="BITSTR-BMM" Name="Simple_DSP1_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="Simple_DSP1_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="Simple_DSP1_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="Simple_DSP1_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="Simple_DSP1.tcl"/>
+  <File Type="OPT-TIMING" Name="Simple_DSP1_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="Simple_DSP1_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="Simple_DSP1_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="Simple_DSP1_reports.tcl"/>
+  <File Type="OPT-DRC" Name="Simple_DSP1_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="Simple_DSP1.hwdef"/>
+  <File Type="PWROPT-DCP" Name="Simple_DSP1_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="Simple_DSP1_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="Simple_DSP1_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="Simple_DSP1_placed.dcp"/>
+  <File Type="PLACE-IO" Name="Simple_DSP1_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="Simple_DSP1_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="Simple_DSP1_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="Simple_DSP1_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="Simple_DSP1_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="Simple_DSP1_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="Simple_DSP1_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BG-BGN" Name="Simple_DSP1.bgn"/>
+  <File Type="PLACE-TIMING" Name="Simple_DSP1_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="Simple_DSP1_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="Simple_DSP1.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="Simple_DSP1_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="Simple_DSP1_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="Simple_DSP1_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="Simple_DSP1.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="Simple_DSP1_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="Simple_DSP1_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="Simple_DSP1_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="Simple_DSP1_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="Simple_DSP1_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="Simple_DSP1_drc_routed.pb"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="Simple_DSP1.ltx"/>
+  <File Type="ROUTE-DRC-RPX" Name="Simple_DSP1_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="Simple_DSP1.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="Simple_DSP1_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="Simple_DSP1_methodology_drc_routed.rpx"/>
+  <File Type="BITSTR-SYSDEF" Name="Simple_DSP1.sysdef"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="Simple_DSP1_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="Simple_DSP1_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="Simple_DSP1_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="Simple_DSP1_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="Simple_DSP1_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="Simple_DSP1_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="Simple_DSP1_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="Simple_DSP1_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="Simple_DSP1_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="Simple_DSP1_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="Simple_DSP1_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="Simple_DSP1_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="Simple_DSP1_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="Simple_DSP1_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="Simple_DSP1_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="Simple_DSP1_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="Simple_DSP1_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="Simple_DSP1_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="Simple_DSP1_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="Simple_DSP1.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="Simple_DSP1_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="Simple_DSP1.rbt"/>
+  <File Type="BITSTR-NKY" Name="Simple_DSP1.nky"/>
+  <File Type="BG-DRC" Name="Simple_DSP1.drc"/>
+  <File Type="RDI-RDI" Name="Simple_DSP1.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PPRDIR/../D_Flipflop.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../DSP.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="Simple_DSP1"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PPRDIR/../Constraints.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TargetConstrsFile" Val="$PPRDIR/../Constraints.xdc"/>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2018">
+      <Desc>Default settings for Implementation.</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

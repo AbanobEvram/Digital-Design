@@ -1,0 +1,98 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dD:/Digital course/assignment/Session 3/main assignment/Q5
+T_opt
+!s110 1721572443
+VHU??3;`dQk:BM_<9:TQC51
+04 4 4 work ALSU fast 0
+=1-88a4c2d4e824-669d1c5a-28b-7a8
+Z2 !s124 OEM100
+Z3 o-quiet -auto_acc_if_foreign -work work +acc
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;2021.1;73
+R1
+T_opt1
+!s110 1721578557
+VB;7L8LLUVNHh4B^J^W<?80
+Z6 04 7 4 work ALSU_tb fast 0
+=1-88a4c2d4e824-669d343d-26a-7e0
+R2
+R3
+R4
+n@_opt1
+R5
+R1
+T_opt2
+!s110 1721745667
+VCGPkeL`G:kcYiCDEY=NzX2
+R6
+=1-88a4c2d4e824-669fc103-0-7454
+R2
+R3
+R4
+n@_opt2
+R5
+R1
+vALSU
+Z7 !s110 1721891639
+!i10b 1
+!s100 K4b?HIDM_cL46ZZ3R6P=^2
+I?7RMV2VgPaCEGRR;c5`mE2
+Z8 dD:/Digital course/assignment/Session 4/main assignment/Q1
+w1721745381
+8D:/Digital course/assignment/Session 4/main assignment/Q1/ALSU.v
+FD:/Digital course/assignment/Session 4/main assignment/Q1/ALSU.v
+!i122 18
+L0 1 139
+Z9 VDg1SIo80bB@j0V0VzS_@n1
+Z10 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z11 !s108 1721891639.000000
+!s107 D:/Digital course/assignment/Session 4/main assignment/Q1/ALSU.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital course/assignment/Session 4/main assignment/Q1/ALSU.v|
+!i113 0
+Z12 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+n@a@l@s@u
+vALSU_tb
+R7
+!i10b 1
+!s100 YTeKIea8_f3@f^CN;;<9<0
+I8>RIDmMFQ7@Y4J44JSa;>3
+R8
+w1721578411
+8D:/Digital course/assignment/Session 4/main assignment/Q1/ALSU_tb.v
+FD:/Digital course/assignment/Session 4/main assignment/Q1/ALSU_tb.v
+!i122 19
+L0 1 129
+R9
+R10
+r1
+!s85 0
+31
+R11
+!s107 D:/Digital course/assignment/Session 4/main assignment/Q1/ALSU_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital course/assignment/Session 4/main assignment/Q1/ALSU_tb.v|
+!i113 0
+R12
+R4
+n@a@l@s@u_tb

@@ -1,0 +1,338 @@
+
+*** Running vivado
+    with args -log Simple_DSP1.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source Simple_DSP1.tcl
+
+
+****** Vivado v2018.2 (64-bit)
+  **** SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+  **** IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+    ** Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+
+source Simple_DSP1.tcl -notrace
+Command: synth_design -top Simple_DSP1 -part xc7a200tffg1156-3
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7a200t'
+INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7a200t'
+INFO: Launching helper process for spawning children vivado processes
+INFO: Helper process launched with PID 8068 
+---------------------------------------------------------------------------------
+Starting RTL Elaboration : Time (s): cpu = 00:00:02 ; elapsed = 00:00:02 . Memory (MB): peak = 355.605 ; gain = 98.953
+---------------------------------------------------------------------------------
+INFO: [Synth 8-6157] synthesizing module 'Simple_DSP1' [D:/Digital course/assignment/Session 4/main assignment/Q2/DSP.v:1]
+	Parameter OPERATION bound to: ADD - type: string 
+INFO: [Synth 8-6157] synthesizing module 'D_Flipflop' [D:/Digital course/assignment/Session 4/main assignment/Q2/D_Flipflop.v:1]
+	Parameter WIDTH bound to: 18 - type: integer 
+INFO: [Synth 8-6155] done synthesizing module 'D_Flipflop' (1#1) [D:/Digital course/assignment/Session 4/main assignment/Q2/D_Flipflop.v:1]
+INFO: [Synth 8-6157] synthesizing module 'D_Flipflop__parameterized0' [D:/Digital course/assignment/Session 4/main assignment/Q2/D_Flipflop.v:1]
+	Parameter WIDTH bound to: 48 - type: integer 
+INFO: [Synth 8-6155] done synthesizing module 'D_Flipflop__parameterized0' (1#1) [D:/Digital course/assignment/Session 4/main assignment/Q2/D_Flipflop.v:1]
+INFO: [Synth 8-6155] done synthesizing module 'Simple_DSP1' (2#1) [D:/Digital course/assignment/Session 4/main assignment/Q2/DSP.v:1]
+---------------------------------------------------------------------------------
+Finished RTL Elaboration : Time (s): cpu = 00:00:02 ; elapsed = 00:00:03 . Memory (MB): peak = 410.887 ; gain = 154.234
+---------------------------------------------------------------------------------
+
+Report Check Netlist: 
++------+------------------+-------+---------+-------+------------------+
+|      |Item              |Errors |Warnings |Status |Description       |
++------+------------------+-------+---------+-------+------------------+
+|1     |multi_driven_nets |      0|        0|Passed |Multi driven nets |
++------+------------------+-------+---------+-------+------------------+
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:02 ; elapsed = 00:00:03 . Memory (MB): peak = 410.887 ; gain = 154.234
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 1 : Time (s): cpu = 00:00:02 ; elapsed = 00:00:03 . Memory (MB): peak = 410.887 ; gain = 154.234
+---------------------------------------------------------------------------------
+INFO: [Device 21-403] Loading part xc7a200tffg1156-3
+INFO: [Project 1-570] Preparing netlist for logic optimization
+
+Processing XDC Constraints
+Initializing timing engine
+Parsing XDC File [D:/Digital course/assignment/Session 4/main assignment/Q2/Constraints.xdc]
+Finished Parsing XDC File [D:/Digital course/assignment/Session 4/main assignment/Q2/Constraints.xdc]
+INFO: [Project 1-236] Implementation specific constraints were found while reading constraint file [D:/Digital course/assignment/Session 4/main assignment/Q2/Constraints.xdc]. These constraints will be ignored for synthesis but will be used in implementation. Impacted constraints are listed in the file [.Xil/Simple_DSP1_propImpl.xdc].
+Resolution: To avoid this warning, move constraints listed in [.Xil/Simple_DSP1_propImpl.xdc] to another XDC file and exclude this new file from synthesis with the used_in_synthesis property (File Properties dialog in GUI) and re-run elaboration/synthesis.
+Completed Processing XDC Constraints
+
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+Constraint Validation Runtime : Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.001 . Memory (MB): peak = 825.680 ; gain = 0.000
+---------------------------------------------------------------------------------
+Finished Constraint Validation : Time (s): cpu = 00:00:24 ; elapsed = 00:00:26 . Memory (MB): peak = 825.680 ; gain = 569.027
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Loading Part and Timing Information
+---------------------------------------------------------------------------------
+Loading part: xc7a200tffg1156-3
+---------------------------------------------------------------------------------
+Finished Loading Part and Timing Information : Time (s): cpu = 00:00:24 ; elapsed = 00:00:26 . Memory (MB): peak = 825.680 ; gain = 569.027
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Applying 'set_property' XDC Constraints
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished applying 'set_property' XDC Constraints : Time (s): cpu = 00:00:24 ; elapsed = 00:00:26 . Memory (MB): peak = 825.680 ; gain = 569.027
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 2 : Time (s): cpu = 00:00:24 ; elapsed = 00:00:26 . Memory (MB): peak = 825.680 ; gain = 569.027
+---------------------------------------------------------------------------------
+
+Report RTL Partitions: 
++-+--------------+------------+----------+
+| |RTL Partition |Replication |Instances |
++-+--------------+------------+----------+
++-+--------------+------------+----------+
+---------------------------------------------------------------------------------
+Start RTL Component Statistics 
+---------------------------------------------------------------------------------
+Detailed RTL Component Info : 
++---Adders : 
+	   2 Input     48 Bit       Adders := 1     
+	   2 Input     18 Bit       Adders := 1     
++---Registers : 
+	               48 Bit    Registers := 3     
+	               18 Bit    Registers := 5     
++---Muxes : 
+	   2 Input     35 Bit        Muxes := 1     
+---------------------------------------------------------------------------------
+Finished RTL Component Statistics 
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start RTL Hierarchical Component Statistics 
+---------------------------------------------------------------------------------
+Hierarchical RTL Component report 
+Module Simple_DSP1 
+Detailed RTL Component Info : 
++---Adders : 
+	   2 Input     48 Bit       Adders := 1     
+	   2 Input     18 Bit       Adders := 1     
++---Muxes : 
+	   2 Input     35 Bit        Muxes := 1     
+Module D_Flipflop 
+Detailed RTL Component Info : 
++---Registers : 
+	               18 Bit    Registers := 1     
+Module D_Flipflop__parameterized0 
+Detailed RTL Component Info : 
++---Registers : 
+	               48 Bit    Registers := 1     
+---------------------------------------------------------------------------------
+Finished RTL Hierarchical Component Statistics
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Part Resource Summary
+---------------------------------------------------------------------------------
+Part Resources:
+DSPs: 740 (col length:100)
+BRAMs: 730 (col length: RAMB18 100 RAMB36 50)
+---------------------------------------------------------------------------------
+Finished Part Resource Summary
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Cross Boundary and Area Optimization
+---------------------------------------------------------------------------------
+Warning: Parallel synthesis criteria is not met 
+DSP Report: Generating DSP d6/q_reg, operation Mode is: (C+A''*B2)'.
+DSP Report: register d4/q_reg is absorbed into DSP d6/q_reg.
+DSP Report: register d2/q_reg is absorbed into DSP d6/q_reg.
+DSP Report: register d5/q_reg is absorbed into DSP d6/q_reg.
+DSP Report: register d6/q_reg is absorbed into DSP d6/q_reg.
+DSP Report: operator d0 is absorbed into DSP d6/q_reg.
+DSP Report: operator d0 is absorbed into DSP d6/q_reg.
+WARNING: [Synth 8-3332] Sequential element (d4/q_reg[16]) is unused and will be removed from module Simple_DSP1.
+WARNING: [Synth 8-3332] Sequential element (d4/q_reg[15]) is unused and will be removed from module Simple_DSP1.
+WARNING: [Synth 8-3332] Sequential element (d4/q_reg[14]) is unused and will be removed from module Simple_DSP1.
+WARNING: [Synth 8-3332] Sequential element (d4/q_reg[13]) is unused and will be removed from module Simple_DSP1.
+WARNING: [Synth 8-3332] Sequential element (d4/q_reg[12]) is unused and will be removed from module Simple_DSP1.
+WARNING: [Synth 8-3332] Sequential element (d4/q_reg[11]) is unused and will be removed from module Simple_DSP1.
+WARNING: [Synth 8-3332] Sequential element (d4/q_reg[10]) is unused and will be removed from module Simple_DSP1.
+WARNING: [Synth 8-3332] Sequential element (d4/q_reg[9]) is unused and will be removed from module Simple_DSP1.
+WARNING: [Synth 8-3332] Sequential element (d4/q_reg[8]) is unused and will be removed from module Simple_DSP1.
+WARNING: [Synth 8-3332] Sequential element (d4/q_reg[7]) is unused and will be removed from module Simple_DSP1.
+WARNING: [Synth 8-3332] Sequential element (d4/q_reg[6]) is unused and will be removed from module Simple_DSP1.
+WARNING: [Synth 8-3332] Sequential element (d4/q_reg[5]) is unused and will be removed from module Simple_DSP1.
+WARNING: [Synth 8-3332] Sequential element (d4/q_reg[4]) is unused and will be removed from module Simple_DSP1.
+WARNING: [Synth 8-3332] Sequential element (d4/q_reg[3]) is unused and will be removed from module Simple_DSP1.
+WARNING: [Synth 8-3332] Sequential element (d4/q_reg[2]) is unused and will be removed from module Simple_DSP1.
+WARNING: [Synth 8-3332] Sequential element (d4/q_reg[1]) is unused and will be removed from module Simple_DSP1.
+WARNING: [Synth 8-3332] Sequential element (d4/q_reg[0]) is unused and will be removed from module Simple_DSP1.
+---------------------------------------------------------------------------------
+Finished Cross Boundary and Area Optimization : Time (s): cpu = 00:00:24 ; elapsed = 00:00:26 . Memory (MB): peak = 825.680 ; gain = 569.027
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start ROM, RAM, DSP and Shift Register Reporting
+---------------------------------------------------------------------------------
+
+DSP: Preliminary Mapping  Report (see note below)
++------------+-------------+--------+--------+--------+--------+--------+------+------+------+------+-------+------+------+
+|Module Name | DSP Mapping | A Size | B Size | C Size | D Size | P Size | AREG | BREG | CREG | DREG | ADREG | MREG | PREG | 
++------------+-------------+--------+--------+--------+--------+--------+------+------+------+------+-------+------+------+
+|Simple_DSP1 | (C+A''*B2)' | 18     | 17     | 35     | -      | 36     | 2    | 1    | 0    | -    | -     | 0    | 1    | 
++------------+-------------+--------+--------+--------+--------+--------+------+------+------+------+-------+------+------+
+
+Note: The table above is a preliminary report that shows the DSPs inferred at the current stage of the synthesis flow. Some DSP may be reimplemented as non DSP primitives later in the synthesis flow. Multiple instantiated DSPs are reported only once.
+---------------------------------------------------------------------------------
+Finished ROM, RAM, DSP and Shift Register Reporting
+---------------------------------------------------------------------------------
+
+Report RTL Partitions: 
++-+--------------+------------+----------+
+| |RTL Partition |Replication |Instances |
++-+--------------+------------+----------+
++-+--------------+------------+----------+
+---------------------------------------------------------------------------------
+Start Applying XDC Timing Constraints
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Applying XDC Timing Constraints : Time (s): cpu = 00:00:34 ; elapsed = 00:00:37 . Memory (MB): peak = 851.719 ; gain = 595.066
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Timing Optimization
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Timing Optimization : Time (s): cpu = 00:00:34 ; elapsed = 00:00:37 . Memory (MB): peak = 852.164 ; gain = 595.512
+---------------------------------------------------------------------------------
+
+Report RTL Partitions: 
++-+--------------+------------+----------+
+| |RTL Partition |Replication |Instances |
++-+--------------+------------+----------+
++-+--------------+------------+----------+
+---------------------------------------------------------------------------------
+Start Technology Mapping
+---------------------------------------------------------------------------------
+INFO: [Synth 8-5842] Cannot pack DSP OPMODE registers because of constant '1' value. Packing the registers will cause simulation mismatch at initial cycle [D:/Digital course/assignment/Session 4/main assignment/Q2/D_Flipflop.v:8]
+---------------------------------------------------------------------------------
+Finished Technology Mapping : Time (s): cpu = 00:00:34 ; elapsed = 00:00:37 . Memory (MB): peak = 862.062 ; gain = 605.410
+---------------------------------------------------------------------------------
+
+Report RTL Partitions: 
++-+--------------+------------+----------+
+| |RTL Partition |Replication |Instances |
++-+--------------+------------+----------+
++-+--------------+------------+----------+
+---------------------------------------------------------------------------------
+Start IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Flattening Before IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Flattening Before IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Final Netlist Cleanup
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Final Netlist Cleanup
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished IO Insertion : Time (s): cpu = 00:00:35 ; elapsed = 00:00:38 . Memory (MB): peak = 862.062 ; gain = 605.410
+---------------------------------------------------------------------------------
+
+Report Check Netlist: 
++------+------------------+-------+---------+-------+------------------+
+|      |Item              |Errors |Warnings |Status |Description       |
++------+------------------+-------+---------+-------+------------------+
+|1     |multi_driven_nets |      0|        0|Passed |Multi driven nets |
++------+------------------+-------+---------+-------+------------------+
+---------------------------------------------------------------------------------
+Start Renaming Generated Instances
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Instances : Time (s): cpu = 00:00:35 ; elapsed = 00:00:38 . Memory (MB): peak = 862.062 ; gain = 605.410
+---------------------------------------------------------------------------------
+
+Report RTL Partitions: 
++-+--------------+------------+----------+
+| |RTL Partition |Replication |Instances |
++-+--------------+------------+----------+
++-+--------------+------------+----------+
+---------------------------------------------------------------------------------
+Start Rebuilding User Hierarchy
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Rebuilding User Hierarchy : Time (s): cpu = 00:00:35 ; elapsed = 00:00:38 . Memory (MB): peak = 862.062 ; gain = 605.410
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Ports
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Ports : Time (s): cpu = 00:00:35 ; elapsed = 00:00:38 . Memory (MB): peak = 862.062 ; gain = 605.410
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:35 ; elapsed = 00:00:38 . Memory (MB): peak = 862.062 ; gain = 605.410
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Nets
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Nets : Time (s): cpu = 00:00:35 ; elapsed = 00:00:38 . Memory (MB): peak = 862.062 ; gain = 605.410
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Writing Synthesis Report
+---------------------------------------------------------------------------------
+
+Report BlackBoxes: 
++-+--------------+----------+
+| |BlackBox name |Instances |
++-+--------------+----------+
++-+--------------+----------+
+
+Report Cell Usage: 
++------+----------+------+
+|      |Cell      |Count |
++------+----------+------+
+|1     |BUFG      |     1|
+|2     |CARRY4    |    17|
+|3     |DSP48E1_1 |     1|
+|4     |LUT1      |     1|
+|5     |LUT2      |    54|
+|6     |FDRE      |   151|
+|7     |IBUF      |   104|
+|8     |OBUF      |    48|
++------+----------+------+
+
+Report Instance Areas: 
++------+---------+-----------------------------+------+
+|      |Instance |Module                       |Cells |
++------+---------+-----------------------------+------+
+|1     |top      |                             |   377|
+|2     |  d0     |D_Flipflop                   |    41|
+|3     |  d1     |D_Flipflop_0                 |    18|
+|4     |  d2     |D_Flipflop_1                 |    18|
+|5     |  d3     |D_Flipflop__parameterized0   |    51|
+|6     |  d4     |D_Flipflop_2                 |     1|
+|7     |  d6     |D_Flipflop__parameterized0_3 |    46|
+|8     |  d7     |D_Flipflop__parameterized0_4 |    49|
++------+---------+-----------------------------+------+
+---------------------------------------------------------------------------------
+Finished Writing Synthesis Report : Time (s): cpu = 00:00:35 ; elapsed = 00:00:38 . Memory (MB): peak = 862.062 ; gain = 605.410
+---------------------------------------------------------------------------------
+Synthesis finished with 0 errors, 0 critical warnings and 17 warnings.
+Synthesis Optimization Runtime : Time (s): cpu = 00:00:13 ; elapsed = 00:00:17 . Memory (MB): peak = 862.062 ; gain = 190.617
+Synthesis Optimization Complete : Time (s): cpu = 00:00:35 ; elapsed = 00:00:38 . Memory (MB): peak = 862.062 ; gain = 605.410
+INFO: [Project 1-571] Translating synthesized netlist
+INFO: [Netlist 29-17] Analyzing 122 Unisim elements for replacement
+INFO: [Netlist 29-28] Unisim Transformation completed in 0 CPU seconds
+INFO: [Project 1-570] Preparing netlist for logic optimization
+INFO: [Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+INFO: [Common 17-83] Releasing license: Synthesis
+19 Infos, 17 Warnings, 0 Critical Warnings and 0 Errors encountered.
+synth_design completed successfully
+synth_design: Time (s): cpu = 00:00:37 ; elapsed = 00:00:40 . Memory (MB): peak = 862.062 ; gain = 618.562
+WARNING: [Constraints 18-5210] No constraint will be written out.
+INFO: [Common 17-1381] The checkpoint 'D:/Digital course/assignment/Session 4/main assignment/Q2/Vivado/Vivado.runs/synth_1/Simple_DSP1.dcp' has been generated.
+INFO: [runtcl-4] Executing : report_utilization -file Simple_DSP1_utilization_synth.rpt -pb Simple_DSP1_utilization_synth.pb
+report_utilization: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.108 . Memory (MB): peak = 862.062 ; gain = 0.000
+INFO: [Common 17-206] Exiting Vivado at Thu Jul 25 13:00:30 2024...

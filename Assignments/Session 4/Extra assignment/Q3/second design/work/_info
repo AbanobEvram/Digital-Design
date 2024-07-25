@@ -1,0 +1,97 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dD:/Digital course/assignment/Session 4/Extra assignment/Q3/first_design
+T_opt
+!s110 1721664629
+VnSSEV^c8j1<Zz7]^e?Jb03
+Z2 04 4 4 work LFSR fast 0
+=1-88a4c2d4e824-669e8475-98-3378
+Z3 !s124 OEM100
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 tCvgOpt 0
+n@_opt
+Z6 OL;O;2021.1;73
+R1
+T_opt1
+!s110 1721665277
+VWhRmmTdOG3B]ZUlJ]F_3]3
+R2
+=1-88a4c2d4e824-669e86fd-218-cec
+R3
+o-quiet -auto_acc_if_foreign -work work
+R5
+n@_opt1
+R6
+R1
+T_opt2
+!s110 1721830477
+V;<1mPnQP_`9DL;GKf[Ell0
+04 7 4 work LFSR_tb fast 0
+=1-88a4c2d4e824-66a10c4d-1b8-998
+R3
+R4
+R5
+n@_opt2
+R6
+vLFSR
+Z7 !s110 1721830472
+!i10b 1
+!s100 eXL=?MLVY9B76RkVD?aPk1
+I6WRchBb>lFJEUzA]M[`W03
+Z8 dD:/Digital course/assignment/Session 4/Extra assignment/Q3/second design
+w1721664623
+8D:/Digital course/assignment/Session 4/Extra assignment/Q3/second design/LFSR.v
+FD:/Digital course/assignment/Session 4/Extra assignment/Q3/second design/LFSR.v
+!i122 8
+L0 1 27
+Z9 VDg1SIo80bB@j0V0VzS_@n1
+Z10 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z11 !s108 1721830472.000000
+!s107 D:/Digital course/assignment/Session 4/Extra assignment/Q3/second design/LFSR.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital course/assignment/Session 4/Extra assignment/Q3/second design/LFSR.v|
+!i113 0
+Z12 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R5
+n@l@f@s@r
+vLFSR_tb
+R7
+!i10b 1
+!s100 [VlKAPZe@e3_B^Y>ASBWL1
+IFUB8n0LndG9X=XFnhfzi23
+R8
+w1721715940
+8D:/Digital course/assignment/Session 4/Extra assignment/Q3/second design/LFSR_tb.v
+FD:/Digital course/assignment/Session 4/Extra assignment/Q3/second design/LFSR_tb.v
+!i122 9
+L0 1 20
+R9
+R10
+r1
+!s85 0
+31
+R11
+!s107 D:/Digital course/assignment/Session 4/Extra assignment/Q3/second design/LFSR_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital course/assignment/Session 4/Extra assignment/Q3/second design/LFSR_tb.v|
+!i113 0
+R12
+R5
+n@l@f@s@r_tb

@@ -1,0 +1,109 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/Users/Abanob Evram/Desktop/TEST
+T_opt
+!s110 1721895915
+VP2;eJF3L@1E>?@OGjQz]n1
+04 12 4 work DSP_block_tb fast 0
+=1-88a4c2d4e824-66a20beb-1dc-6394
+Z2 !s124 OEM100
+Z3 o-quiet -auto_acc_if_foreign -work work +acc
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;2021.1;73
+T_opt1
+!s110 1721746936
+VShLISYSZ[_?MUOkM9W47I0
+04 10 4 work Simple_DSP fast 0
+=1-88a4c2d4e824-669fc5f7-3b6-5e3c
+R2
+R3
+R4
+n@_opt1
+R5
+R1
+vD_Flipflop
+Z6 !s110 1721895914
+!i10b 1
+!s100 9?<biXc>z_n>05K`8kl<Q0
+IHj9SZj0VVId?Xa<P?;2X42
+Z7 dD:/Digital course/assignment/Session 4/main assignment/Q2
+w1721893285
+8D_Flipflop.v
+FD_Flipflop.v
+!i122 27
+L0 1 12
+Z8 VDg1SIo80bB@j0V0VzS_@n1
+Z9 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z10 !s108 1721895914.000000
+Z11 !s107 DSP_block_tb.v|DSP_BLOCK_tb.v|D_Flipflop.v|DSP.v|
+Z12 !s90 -reportprogress|300|DSP.v|D_Flipflop.v|DSP_BLOCK_tb.v|DSP_block_tb.v|
+!i113 0
+Z13 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+n@d_@flipflop
+vDSP_block_tb
+R6
+!i10b 1
+!s100 oB5@0=fBRfD[=W2gE>ej^3
+In2I=4HZ`>:OYV8b_DFfbA3
+R7
+w1721895241
+8DSP_BLOCK_tb.v
+FDSP_BLOCK_tb.v
+!i122 27
+L0 1 53
+R8
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R4
+n@d@s@p_block_tb
+vSimple_DSP
+R6
+!i10b 1
+!s100 Oa2_aVCL_FnW3C8gi3;Y60
+I=g@gak4mghDA8JBa?SGcA0
+R7
+w1721893284
+8DSP.v
+FDSP.v
+!i122 27
+L0 1 41
+R8
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R4
+n@simple_@d@s@p

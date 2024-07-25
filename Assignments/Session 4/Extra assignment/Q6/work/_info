@@ -1,0 +1,71 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Digital course/assignment/Session 4/main assignment/Q2
+T_opt
+!s110 1721833160
+VaSfgWQ]fCQYRI0NVLlVS?1
+04 15 4 work gray_counter_tb fast 0
+=1-88a4c2d4e824-66a116c8-20a-45c8
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vgray_counter
+Z2 !s110 1721833144
+!i10b 1
+!s100 fCAX`4=;UNXE@XNC:SN1b0
+IiY1GUAHKikF8m_PCFU1`z1
+Z3 dD:/Digital course/assignment/Session 4/Extra assignment/Q6
+w1721749175
+8D:/Digital course/assignment/Session 4/Extra assignment/Q6/gray_counter.v
+FD:/Digital course/assignment/Session 4/Extra assignment/Q6/gray_counter.v
+!i122 18
+L0 1 13
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z6 !s108 1721833144.000000
+!s107 D:/Digital course/assignment/Session 4/Extra assignment/Q6/gray_counter.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital course/assignment/Session 4/Extra assignment/Q6/gray_counter.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vgray_counter_tb
+R2
+!i10b 1
+!s100 Af6GiezLBR1?=FS`:CecM2
+If4iW;odTbhZ_AjZbRJzM:3
+R3
+w1721748983
+8D:/Digital course/assignment/Session 4/Extra assignment/Q6/gray_counter_tb.v
+FD:/Digital course/assignment/Session 4/Extra assignment/Q6/gray_counter_tb.v
+!i122 19
+L0 1 19
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Digital course/assignment/Session 4/Extra assignment/Q6/gray_counter_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital course/assignment/Session 4/Extra assignment/Q6/gray_counter_tb.v|
+!i113 0
+R7
+R1

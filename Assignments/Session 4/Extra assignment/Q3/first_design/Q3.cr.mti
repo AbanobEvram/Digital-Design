@@ -1,0 +1,29 @@
+{D:/Digital course/assignment/Session 4/Extra assignment/Q3/first_design/LFSR.v} {1 {vlog -work work -vopt -stats=none {D:/Digital course/assignment/Session 4/Extra assignment/Q3/first_design/LFSR.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module LFSR
+
+Top level modules:
+	LFSR
+
+} {} {}} {D:/Digital course/assignment/Session 4/Extra assignment/Q3/first_design/LFSR_tb.v} {1 {vlog -work work -vopt -stats=none {D:/Digital course/assignment/Session 4/Extra assignment/Q3/first_design/LFSR_tb.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module LFSR_tb
+
+Top level modules:
+	LFSR_tb
+
+} {} {}} {D:/Digital course/assignment/Session 4/Extra assignment/Q3/first_design/FF1.v} {1 {vlog -work work -vopt -stats=none {D:/Digital course/assignment/Session 4/Extra assignment/Q3/first_design/FF1.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module FF1
+
+Top level modules:
+	FF1
+
+} {} {}} {D:/Digital course/assignment/Session 4/Extra assignment/Q3/first_design/FF2.v} {1 {vlog -work work -vopt -stats=none {D:/Digital course/assignment/Session 4/Extra assignment/Q3/first_design/FF2.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module FF2
+
+Top level modules:
+	FF2
+
+} {} {}}

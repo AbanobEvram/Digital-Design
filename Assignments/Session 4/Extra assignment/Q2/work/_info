@@ -1,0 +1,128 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dD:/Digital course/assignment/Session 3/Extra assignment/Q3
+T_opt
+!s110 1721296133
+VMH8oXmecjYnP24?AF6i[J3
+Z2 04 17 4 work Extend_counter_tb fast 0
+=1-88a4c2d4e824-6698e505-161-49e8
+Z3 !s124 OEM100
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 tCvgOpt 0
+n@_opt
+Z6 OL;O;2021.1;73
+R1
+T_opt1
+!s110 1721829723
+VYf<X5ke]a6=F1883XzzEm3
+R2
+=1-88a4c2d4e824-66a1095a-292-8acc
+R3
+R4
+R5
+n@_opt1
+R6
+vD_Flipflop
+Z7 !s110 1721829676
+!i10b 1
+!s100 `07LnjDA68H4^nz_``:>>2
+INF71@jf5[7n7>EgWJmmTX3
+Z8 dD:/Digital course/assignment/Session 4/Extra assignment/Q2
+w1721067502
+8D:/Digital course/assignment/Session 4/Extra assignment/Q2/D_Flipflop.v
+FD:/Digital course/assignment/Session 4/Extra assignment/Q2/D_Flipflop.v
+!i122 16
+L0 1 12
+Z9 VDg1SIo80bB@j0V0VzS_@n1
+Z10 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z11 !s108 1721829676.000000
+!s107 D:/Digital course/assignment/Session 4/Extra assignment/Q2/D_Flipflop.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital course/assignment/Session 4/Extra assignment/Q2/D_Flipflop.v|
+!i113 0
+Z12 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R5
+n@d_@flipflop
+vExtend_counter
+R7
+!i10b 1
+!s100 5CA5D3hS;Wm10dPRiYlm21
+IhhLPVz:>z4<73`lmTOQKT2
+R8
+w1721295932
+8D:/Digital course/assignment/Session 4/Extra assignment/Q2/Extend_counter.v
+FD:/Digital course/assignment/Session 4/Extra assignment/Q2/Extend_counter.v
+!i122 17
+L0 1 13
+R9
+R10
+r1
+!s85 0
+31
+R11
+!s107 D:/Digital course/assignment/Session 4/Extra assignment/Q2/Extend_counter.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital course/assignment/Session 4/Extra assignment/Q2/Extend_counter.v|
+!i113 0
+R12
+R5
+n@extend_counter
+vExtend_counter_tb
+R7
+!i10b 1
+!s100 [cDeM<oZAL;P@b36@33GS2
+IU=6<KPTJ4Z?J83i`B:N5E3
+R8
+w1721296048
+8D:/Digital course/assignment/Session 4/Extra assignment/Q2/Extend_counter_tb.v
+FD:/Digital course/assignment/Session 4/Extra assignment/Q2/Extend_counter_tb.v
+!i122 18
+L0 1 30
+R9
+R10
+r1
+!s85 0
+31
+R11
+!s107 D:/Digital course/assignment/Session 4/Extra assignment/Q2/Extend_counter_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital course/assignment/Session 4/Extra assignment/Q2/Extend_counter_tb.v|
+!i113 0
+R12
+R5
+n@extend_counter_tb
+vRipple_counter
+R7
+!i10b 1
+!s100 4NOE9YGAX<4Uo7Z`Qa@A]2
+I=RR7I00=4OK_>RbR4Cl3V1
+R8
+w1721077916
+8D:/Digital course/assignment/Session 4/Extra assignment/Q2/Ripple_counter.v
+FD:/Digital course/assignment/Session 4/Extra assignment/Q2/Ripple_counter.v
+!i122 19
+L0 1 10
+R9
+R10
+r1
+!s85 0
+31
+R11
+!s107 D:/Digital course/assignment/Session 4/Extra assignment/Q2/Ripple_counter.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital course/assignment/Session 4/Extra assignment/Q2/Ripple_counter.v|
+!i113 0
+R12
+R5
+n@ripple_counter
